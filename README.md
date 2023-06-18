@@ -30,4 +30,4 @@ There's one more *method*.
 
     ##### For pngs/jpegs/jpgs
 
-    <img scr="https://img.freepik.com/premium-photo/cybersecurity-digital-information-technology-concept-polygon-binary-code-connected_371307-161.jpg">
+    <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUokAbJQ_bNQs6JFMmAQlXlBYmKdJ6o9hukvW2dcSs&s">
